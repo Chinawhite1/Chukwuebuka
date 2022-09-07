@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chinawhite1
-- 👀 I’m interested in ...Data analylist
-- 🌱 I’m currently learning ...Data science
-- 💞️ I’m looking to collaborate on ...Data science
+- 👀 I’m interested in ...Information Technology
+- 🌱 I’m currently learning ...google IT
+- 💞️ I’m looking to collaborate on ..IT SUPPORT TEAM
 - 📫 How to reach me ...chinawhite175@gmail.com
 
 <!---
